@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html>
+<head>
+  <title>Group 3 ICT 10 - Hermes</title>
+</head>
+<body>
+  <h1>Group 3 ICT 10 - Hermes </h1>
+  <ul>
+    <li>Leon Manguera</li>
+    <li>Katrina Laylo</li>
+    <li>Jasmine Canarias</li>
+    <li>Mico Kyle Verdejo</li>
+    <li>Laicka Desalla</li>
+    <li>Paul Andrei Mendoza</li>
+    <li>Earl Justin Hernandez</li>
+    <li>Jessie Reyes</li>
+    <li>Celine Angela Naño</li>
+    <li>Renz Velasquez</li>
+  </ul>
+</body>
+</html>
+Write to Katrina Laylo
